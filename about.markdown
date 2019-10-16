@@ -4,6 +4,5 @@ title: About
 permalink: /about/
 ---
 
-My name is Daniel Hancock.
-
-I like playing a games and keeping up to date on the newest Technologies and interesting Engineering projects.
+I have an interest in DIY and working on projects around the home or workplace
+and learning how to use them.
